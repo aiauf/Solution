@@ -149,5 +149,5 @@ Use @[Web Search](action:web_search) to ground your findings in real community e
 
 **User Guide**
 - Copy and paste the orignal prompt in the chatbot of LLMs.
-- upload the [command prompt]<https://github.com/aiauf/Solution/blob/main/prompt_optimization_community_prompt.md> onto the chatbot of LLMs.
+- upload the [command prompt](https://github.com/aiauf/Solution/blob/main/prompt_optimization_community_prompt.md) onto the chatbot of LLMs.
 - let LLMs, based on the prompt as attached, to rewrite the orignal prompt. 
