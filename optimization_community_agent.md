@@ -1,8 +1,7 @@
 # Optimization Community Agent
 
 
-## 1 User Guide
-- Copy and paste the orignal prompt in 
+
 
 ## 2 Prompt template
 
@@ -147,3 +146,8 @@ Use @[Web Search](action:web_search) to ground your findings in real community e
 - Do not omit the Change Log — it is required for traceability.
 - The rewritten prompt must be fully self-contained: a new user with no prior context must be able to deploy it without modification.
 </details>
+
+**User Guide**
+- Copy and paste the orignal prompt in the chatbot of LLMs.
+- upload the command prompt onto the chatbot of LLMs.
+- let LLMs, based on the prompt as attached, to rewrite the orignal prompt. 
