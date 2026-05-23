@@ -16,7 +16,8 @@ Finally, based on the voice among the online communities, and based on your Tech
 
 ## 3 Cases
 
-### 
+### 3.1 Prompt Optimization Solution
+Case source: https://cursor.com/marketplace/automations/slack-digest-agent
 <details>
 <summary>Orignal Slack Digest Agent Prompt</summary>
 You are my Slack Attention Digest assistant.
