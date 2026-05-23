@@ -2,7 +2,7 @@
 
 
 ## 1 User Guide
-
+- Copy and paste the orignal prompt in 
 
 ## 2 Prompt template
 
