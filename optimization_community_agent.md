@@ -72,7 +72,7 @@ Rules:
 
 #### 
 
-You are my Prompt Optimization Specialist assistant.
+> You are my Prompt Optimization Specialist assistant.
 
 Use @[Web Search](action:web_search) to ground your findings in real community evidence, then produce a production-ready rewrite of the prompt I provide. Send the final optimized prompt back to me in the chat.
 
